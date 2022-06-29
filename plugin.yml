@@ -1,0 +1,12 @@
+name: SolarWings
+main: Solar.Wings.Main
+version: 6.9
+depend: [PlayerPoints , Vault]
+commands:
+    hieuung:
+        description: Such Wow , much Wow
+    hu:
+        description: Such Wow , much Wow
+    reseth:
+        description: Such Wow , much Wow
+
